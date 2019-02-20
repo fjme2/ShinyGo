@@ -1,0 +1,1258 @@
+{
+    "1": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 1, 
+        "name": "Bulbasaur"
+    }, 
+    "2": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 2, 
+        "name": "Ivysaur"
+    }, 
+    "3": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 3, 
+        "name": "Venusaur"
+    }, 
+    "4": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 4, 
+        "name": "Charmander"
+    }, 
+    "5": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 5, 
+        "name": "Charmeleon"
+    }, 
+    "6": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 6, 
+        "name": "Charizard"
+    }, 
+    "7": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 7, 
+        "name": "Squirtle"
+    }, 
+    "8": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 8, 
+        "name": "Wartortle"
+    }, 
+    "9": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 9, 
+        "name": "Blastoise"
+    }, 
+    "10": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 10, 
+        "name": "Caterpie"
+    }, 
+    "11": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 11, 
+        "name": "Metapod"
+    }, 
+    "12": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 12, 
+        "name": "Butterfree"
+    }, 
+    "25": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 25, 
+        "name": "Pikachu"
+    }, 
+    "26": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 26, 
+        "name": "Raichu"
+    }, 
+    "27": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 27, 
+        "name": "Sandshrew"
+    }, 
+    "28": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 28, 
+        "name": "Sandslash"
+    }, 
+    "29": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 29, 
+        "name": "Nidoran\u2640"
+    }, 
+    "30": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 30, 
+        "name": "Nidorina"
+    }, 
+    "31": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 31, 
+        "name": "Nidoqueen"
+    }, 
+    "54": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 54, 
+        "name": "Psyduck"
+    }, 
+    "55": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 55, 
+        "name": "Golduck"
+    }, 
+    "58": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 58, 
+        "name": "Growlithe"
+    }, 
+    "59": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 59, 
+        "name": "Arcanine"
+    }, 
+    "74": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 74, 
+        "name": "Geodude"
+    }, 
+    "75": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 75, 
+        "name": "Graveler"
+    }, 
+    "76": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 76, 
+        "name": "Golem"
+    }, 
+    "77": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 77, 
+        "name": "Ponyta"
+    }, 
+    "78": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 78, 
+        "name": "Rapidash"
+    }, 
+    "81": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 81, 
+        "name": "Magnemite"
+    }, 
+    "82": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 82, 
+        "name": "Magneton"
+    }, 
+    "88": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 88, 
+        "name": "Grimer"
+    }, 
+    "89": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 89, 
+        "name": "Muk"
+    }, 
+    "90": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 90, 
+        "name": "Shellder"
+    }, 
+    "91": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 91, 
+        "name": "Cloyster"
+    }, 
+    "92": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 92, 
+        "name": "Gastly"
+    }, 
+    "93": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 93, 
+        "name": "Haunter"
+    }, 
+    "94": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 94, 
+        "name": "Gengar"
+    }, 
+    "96": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 96, 
+        "name": "Drowzee"
+    }, 
+    "97": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 97, 
+        "name": "Hypno"
+    }, 
+    "98": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 98, 
+        "name": "Krabby"
+    }, 
+    "99": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 99, 
+        "name": "Kingler"
+    }, 
+    "104": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 104, 
+        "name": "Cubone"
+    }, 
+    "105": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 105, 
+        "name": "Marowak"
+    }, 
+    "125": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 125, 
+        "name": "Electabuzz"
+    }, 
+    "126": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 126, 
+        "name": "Magmar"
+    }, 
+    "127": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 127, 
+        "name": "Pinsir"
+    }, 
+    "129": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 129, 
+        "name": "Magikarp"
+    }, 
+    "130": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 130, 
+        "name": "Gyarados"
+    }, 
+    "133": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 133, 
+        "name": "Eevee"
+    }, 
+    "134": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 134, 
+        "name": "Vaporeon"
+    }, 
+    "135": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 135, 
+        "name": "Jolteon"
+    }, 
+    "136": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 136, 
+        "name": "Flareon"
+    }, 
+    "138": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 138, 
+        "name": "Omanyte"
+    }, 
+    "139": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 139, 
+        "name": "Omastar"
+    }, 
+    "140": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 140, 
+        "name": "Kabuto"
+    }, 
+    "141": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 141, 
+        "name": "Kabutops"
+    }, 
+    "142": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 142, 
+        "name": "Aerodactyl"
+    }, 
+    "144": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 144, 
+        "name": "Articuno"
+    }, 
+    "145": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 145, 
+        "name": "Zapdos"
+    }, 
+    "146": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 146, 
+        "name": "Moltres"
+    }, 
+    "147": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 147, 
+        "name": "Dratini"
+    }, 
+    "148": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 148, 
+        "name": "Dragonair"
+    }, 
+    "149": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 149, 
+        "name": "Dragonite"
+    }, 
+    "152": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 152, 
+        "name": "Chikorita"
+    }, 
+    "153": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 153, 
+        "name": "Bayleef"
+    }, 
+    "154": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 154, 
+        "name": "Meganium"
+    }, 
+    "155": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 155, 
+        "name": "Cyndaquil"
+    }, 
+    "156": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 156, 
+        "name": "Quilava"
+    }, 
+    "157": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 157, 
+        "name": "Typhlosion"
+    }, 
+    "158": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 158, 
+        "name": "Totodile"
+    }, 
+    "159": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 159, 
+        "name": "Croconaw"
+    }, 
+    "160": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 160, 
+        "name": "Feraligatr"
+    }, 
+    "172": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 172, 
+        "name": "Pichu"
+    }, 
+    "175": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 175, 
+        "name": "Togepi"
+    }, 
+    "176": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 176, 
+        "name": "Togetic"
+    }, 
+    "177": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 177, 
+        "name": "Natu"
+    }, 
+    "178": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 178, 
+        "name": "Xatu"
+    }, 
+    "179": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 179, 
+        "name": "Mareep"
+    }, 
+    "180": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 180, 
+        "name": "Flaaffy"
+    }, 
+    "181": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 181, 
+        "name": "Ampharos"
+    }, 
+    "183": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 183, 
+        "name": "Marill"
+    }, 
+    "184": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 184, 
+        "name": "Azumarill"
+    }, 
+    "191": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 191, 
+        "name": "Sunkern"
+    }, 
+    "192": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 192, 
+        "name": "Sunflora"
+    }, 
+    "196": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 196, 
+        "name": "Espeon"
+    }, 
+    "197": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 197, 
+        "name": "Umbreon"
+    }, 
+    "198": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 198, 
+        "name": "Murkrow"
+    }, 
+    "200": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 200, 
+        "name": "Misdreavus"
+    }, 
+    "202": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 202, 
+        "name": "Wobbuffet"
+    }, 
+    "204": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 204, 
+        "name": "Pineco"
+    }, 
+    "205": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 205, 
+        "name": "Forretress"
+    }, 
+    "209": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 209, 
+        "name": "Snubbull"
+    }, 
+    "210": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 210, 
+        "name": "Granbull"
+    }, 
+    "225": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 225, 
+        "name": "Delibird"
+    }, 
+    "228": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 228, 
+        "name": "Houndour"
+    }, 
+    "229": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 229, 
+        "name": "Houndoom"
+    }, 
+    "239": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 239, 
+        "name": "Elekid"
+    }, 
+    "240": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 240, 
+        "name": "Magby"
+    }, 
+    "246": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 246, 
+        "name": "Larvitar"
+    }, 
+    "247": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 247, 
+        "name": "Pupitar"
+    }, 
+    "248": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 248, 
+        "name": "Tyranitar"
+    }, 
+    "249": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 249, 
+        "name": "Lugia"
+    }, 
+    "250": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 250, 
+        "name": "Ho-Oh"
+    }, 
+    "261": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 261, 
+        "name": "Poochyena"
+    }, 
+    "262": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 262, 
+        "name": "Mightyena"
+    }, 
+    "263": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 263, 
+        "name": "Zigzagoon"
+    }, 
+    "264": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 264, 
+        "name": "Linoone"
+    }, 
+    "276": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 276, 
+        "name": "Taillow"
+    }, 
+    "277": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 277, 
+        "name": "Swellow"
+    }, 
+    "278": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 278, 
+        "name": "Wingull"
+    }, 
+    "279": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 279, 
+        "name": "Pelipper"
+    }, 
+    "296": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 296, 
+        "name": "Makuhita"
+    }, 
+    "297": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 297, 
+        "name": "Hariyama"
+    }, 
+    "298": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 298, 
+        "name": "Azurill"
+    }, 
+    "302": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 302, 
+        "name": "Sableye"
+    }, 
+    "303": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 303, 
+        "name": "Mawile"
+    }, 
+    "304": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 304, 
+        "name": "Aron"
+    }, 
+    "305": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 305, 
+        "name": "Lairon"
+    }, 
+    "306": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 306, 
+        "name": "Aggron"
+    }, 
+    "307": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 307, 
+        "name": "Meditite"
+    }, 
+    "308": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 308, 
+        "name": "Medicham"
+    }, 
+    "311": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 311, 
+        "name": "Plusle"
+    }, 
+    "312": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 312, 
+        "name": "Minun"
+    }, 
+    "315": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 315, 
+        "name": "Roselia"
+    }, 
+    "320": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 320, 
+        "name": "Wailmer"
+    }, 
+    "321": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 321, 
+        "name": "Wailord"
+    }, 
+    "325": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 325, 
+        "name": "Spoink"
+    }, 
+    "326": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 326, 
+        "name": "Grumpig"
+    }, 
+    "333": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 333, 
+        "name": "Swablu"
+    }, 
+    "334": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 334, 
+        "name": "Altaria"
+    }, 
+    "349": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 349, 
+        "name": "Feebas"
+    }, 
+    "350": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 350, 
+        "name": "Milotic"
+    }, 
+    "353": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 353, 
+        "name": "Shuppet"
+    }, 
+    "354": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 354, 
+        "name": "Banette"
+    }, 
+    "355": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 355, 
+        "name": "Duskull"
+    }, 
+    "356": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 356, 
+        "name": "Dusclops"
+    }, 
+    "359": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 359, 
+        "name": "Absol"
+    }, 
+    "360": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 360, 
+        "name": "Wynaut"
+    }, 
+    "361": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": true, 
+        "id": 361, 
+        "name": "Snorunt"
+    }, 
+    "362": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 362, 
+        "name": "Glalie"
+    }, 
+    "370": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 370, 
+        "name": "Luvdisc"
+    }, 
+    "374": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 374, 
+        "name": "Beldum"
+    }, 
+    "375": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 375, 
+        "name": "Metang"
+    }, 
+    "376": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 376, 
+        "name": "Metagross"
+    }, 
+    "382": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 382, 
+        "name": "Kyogre"
+    }, 
+    "383": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 383, 
+        "name": "Groudon"
+    }, 
+    "403": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": true, 
+        "salvaje": false, 
+        "id": 403, 
+        "name": "Shinx"
+    }, 
+    "404": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 404, 
+        "name": "Luxio"
+    }, 
+    "405": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 405, 
+        "name": "Luxray"
+    }, 
+    "406": {
+        "huevo": true, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 406, 
+        "name": "Budew"
+    }, 
+    "407": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 407, 
+        "name": "Roserade"
+    }, 
+    "425": {
+        "huevo": false, 
+        "evolucion": false, 
+        "raid": false, 
+        "salvaje": true, 
+        "id": 425, 
+        "name": "Drifloon"
+    }, 
+    "426": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 426, 
+        "name": "Drifblim"
+    }, 
+    "429": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 429, 
+        "name": "Mismagius"
+    }, 
+    "430": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 430, 
+        "name": "Honchkrow"
+    }, 
+    "468": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 468, 
+        "name": "Togekiss"
+    }, 
+    "477": {
+        "huevo": false, 
+        "evolucion": true, 
+        "raid": false, 
+        "salvaje": false, 
+        "id": 477, 
+        "name": "Dusknoir"
+    }
+}
