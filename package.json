@@ -1,0 +1,24 @@
+{
+  "name": "ShinyGo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjme2/ShinyGo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjme2/ShinyGo/issues"
+  },
+  "homepage": "https://github.com/fjme2/ShinyGo#readme",
+  "dependencies": {
+    "pokemongo-game-master": "^1.0.4",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
