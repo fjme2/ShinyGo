@@ -1,0 +1,33 @@
+{
+  "name": "shinygo",
+  "version": "1.0.0",
+  "description": "Bot de telegram sobre Pokemon Go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "inicio": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjme2/ShinyGo.git"
+  },
+  "author": "Fran Maciá E.",
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "telegram",
+    "pokemon",
+    "shiny"
+  ],
+  "bugs": {
+    "url": "https://github.com/fjme2/ShinyGo/issues"
+  },
+  "homepage": "https://github.com/fjme2/ShinyGo#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "telegraf": "^3.34.1"
+  }
+}
