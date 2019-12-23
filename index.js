@@ -8,10 +8,9 @@ const mensajeBienvenida = `Bienvenido a ShinyGo Bot!
 Para ver mis funciones usa el comando /help`;
 
 var app = express();
-/*app.get('/', (req, res) => {
-  bot.start(ctx => ctx.reply(mensajeBienvenida));
-  bot.launch();
-});*/
+app.get('/', (req, res) => {
+res.send('Holi Marta!');
+});
 
 bot.start(ctx => ctx.reply(mensajeBienvenida));
 bot.launch();
