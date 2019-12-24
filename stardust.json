@@ -1,628 +1,634 @@
-{
-  "stardust&Candy": [
-    {
-      "Level": "1",
-      "# of Power Ups": "1",
-      "Stardust": "200",
-      "Candy": "1",
-      "Stardust Total": "200",
-      "Candy Total": "1"
-    },
-    {
-      "Level": "1.5",
-      "# of Power Ups": "2",
-      "Stardust": "200",
-      "Candy": "1",
-      "Stardust Total": "400",
-      "Candy Total": "2"
-    },
-    {
-      "Level": "2",
-      "# of Power Ups": "3",
-      "Stardust": "200",
-      "Candy": "1",
-      "Stardust Total": "600",
-      "Candy Total": "3"
-    },
-    {
-      "Level": "2.5",
-      "# of Power Ups": "4",
-      "Stardust": "200",
-      "Candy": "1",
-      "Stardust Total": "800",
-      "Candy Total": "4"
-    },
-    {
-      "Level": "3",
-      "# of Power Ups": "5",
-      "Stardust": "400",
-      "Candy": "1",
-      "Stardust Total": "1200",
-      "Candy Total": "5"
-    },
-    {
-      "Level": "3.5",
-      "# of Power Ups": "6",
-      "Stardust": "400",
-      "Candy": "1",
-      "Stardust Total": "1600",
-      "Candy Total": "6"
-    },
-    {
-      "Level": "4",
-      "# of Power Ups": "7",
-      "Stardust": "400",
-      "Candy": "1",
-      "Stardust Total": "2000",
-      "Candy Total": "7"
-    },
-    {
-      "Level": "4.5",
-      "# of Power Ups": "8",
-      "Stardust": "400",
-      "Candy": "1",
-      "Stardust Total": "2400",
-      "Candy Total": "8"
-    },
-    {
-      "Level": "5",
-      "# of Power Ups": "9",
-      "Stardust": "600",
-      "Candy": "1",
-      "Stardust Total": "3000",
-      "Candy Total": "9"
-    },
-    {
-      "Level": "5.5",
-      "# of Power Ups": "10",
-      "Stardust": "600",
-      "Candy": "1",
-      "Stardust Total": "3600",
-      "Candy Total": "10"
-    },
-    {
-      "Level": "6",
-      "# of Power Ups": "11",
-      "Stardust": "600",
-      "Candy": "1",
-      "Stardust Total": "4200",
-      "Candy Total": "11"
-    },
-    {
-      "Level": "6.5",
-      "# of Power Ups": "12",
-      "Stardust": "600",
-      "Candy": "1",
-      "Stardust Total": "4800",
-      "Candy Total": "12"
-    },
-    {
-      "Level": "7",
-      "# of Power Ups": "13",
-      "Stardust": "800",
-      "Candy": "1",
-      "Stardust Total": "5600",
-      "Candy Total": "13"
-    },
-    {
-      "Level": "7.5",
-      "# of Power Ups": "14",
-      "Stardust": "800",
-      "Candy": "1",
-      "Stardust Total": "6400",
-      "Candy Total": "14"
-    },
-    {
-      "Level": "8",
-      "# of Power Ups": "15",
-      "Stardust": "800",
-      "Candy": "1",
-      "Stardust Total": "7200",
-      "Candy Total": "15"
-    },
-    {
-      "Level": "8.5",
-      "# of Power Ups": "16",
-      "Stardust": "800",
-      "Candy": "1",
-      "Stardust Total": "8000",
-      "Candy Total": "16"
-    },
-    {
-      "Level": "9",
-      "# of Power Ups": "17",
-      "Stardust": "1000",
-      "Candy": "1",
-      "Stardust Total": "9000",
-      "Candy Total": "17"
-    },
-    {
-      "Level": "9.5",
-      "# of Power Ups": "18",
-      "Stardust": "1000",
-      "Candy": "1",
-      "Stardust Total": "10000",
-      "Candy Total": "18"
-    },
-    {
-      "Level": "10",
-      "# of Power Ups": "19",
-      "Stardust": "1000",
-      "Candy": "1",
-      "Stardust Total": "11000",
-      "Candy Total": "19"
-    },
-    {
-      "Level": "10.5",
-      "# of Power Ups": "20",
-      "Stardust": "1000",
-      "Candy": "1",
-      "Stardust Total": "12000",
-      "Candy Total": "20"
-    },
-    {
-      "Level": "11",
-      "# of Power Ups": "21",
-      "Stardust": "1300",
-      "Candy": "2",
-      "Stardust Total": "13300",
-      "Candy Total": "22"
-    },
-    {
-      "Level": "11.5",
-      "# of Power Ups": "22",
-      "Stardust": "1300",
-      "Candy": "2",
-      "Stardust Total": "14600",
-      "Candy Total": "24"
-    },
-    {
-      "Level": "12",
-      "# of Power Ups": "23",
-      "Stardust": "1300",
-      "Candy": "2",
-      "Stardust Total": "15900",
-      "Candy Total": "26"
-    },
-    {
-      "Level": "12.5",
-      "# of Power Ups": "24",
-      "Stardust": "1300",
-      "Candy": "2",
-      "Stardust Total": "17200",
-      "Candy Total": "28"
-    },
-    {
-      "Level": "13",
-      "# of Power Ups": "25",
-      "Stardust": "1600",
-      "Candy": "2",
-      "Stardust Total": "18800",
-      "Candy Total": "30"
-    },
-    {
-      "Level": "13.5",
-      "# of Power Ups": "26",
-      "Stardust": "1600",
-      "Candy": "2",
-      "Stardust Total": "20400",
-      "Candy Total": "32"
-    },
-    {
-      "Level": "14",
-      "# of Power Ups": "27",
-      "Stardust": "1600",
-      "Candy": "2",
-      "Stardust Total": "22000",
-      "Candy Total": "34"
-    },
-    {
-      "Level": "14.5",
-      "# of Power Ups": "28",
-      "Stardust": "1600",
-      "Candy": "2",
-      "Stardust Total": "23600",
-      "Candy Total": "36"
-    },
-    {
-      "Level": "15",
-      "# of Power Ups": "29",
-      "Stardust": "1900",
-      "Candy": "2",
-      "Stardust Total": "25500",
-      "Candy Total": "38"
-    },
-    {
-      "Level": "15.5",
-      "# of Power Ups": "30",
-      "Stardust": "1900",
-      "Candy": "2",
-      "Stardust Total": "27400",
-      "Candy Total": "40"
-    },
-    {
-      "Level": "16",
-      "# of Power Ups": "31",
-      "Stardust": "1900",
-      "Candy": "2",
-      "Stardust Total": "29300",
-      "Candy Total": "42"
-    },
-    {
-      "Level": "16.5",
-      "# of Power Ups": "32",
-      "Stardust": "1900",
-      "Candy": "2",
-      "Stardust Total": "31200",
-      "Candy Total": "44"
-    },
-    {
-      "Level": "17",
-      "# of Power Ups": "33",
-      "Stardust": "2200",
-      "Candy": "2",
-      "Stardust Total": "33400",
-      "Candy Total": "46"
-    },
-    {
-      "Level": "17.5",
-      "# of Power Ups": "34",
-      "Stardust": "2200",
-      "Candy": "2",
-      "Stardust Total": "35600",
-      "Candy Total": "48"
-    },
-    {
-      "Level": "18",
-      "# of Power Ups": "35",
-      "Stardust": "2200",
-      "Candy": "2",
-      "Stardust Total": "37800",
-      "Candy Total": "50"
-    },
-    {
-      "Level": "18.5",
-      "# of Power Ups": "36",
-      "Stardust": "2200",
-      "Candy": "2",
-      "Stardust Total": "40000",
-      "Candy Total": "52"
-    },
-    {
-      "Level": "19",
-      "# of Power Ups": "37",
-      "Stardust": "2500",
-      "Candy": "2",
-      "Stardust Total": "42500",
-      "Candy Total": "54"
-    },
-    {
-      "Level": "19.5",
-      "# of Power Ups": "38",
-      "Stardust": "2500",
-      "Candy": "2",
-      "Stardust Total": "45000",
-      "Candy Total": "56"
-    },
-    {
-      "Level": "20",
-      "# of Power Ups": "39",
-      "Stardust": "2500",
-      "Candy": "2",
-      "Stardust Total": "47500",
-      "Candy Total": "58"
-    },
-    {
-      "Level": "20.5",
-      "# of Power Ups": "40",
-      "Stardust": "2500",
-      "Candy": "2",
-      "Stardust Total": "50000",
-      "Candy Total": "60"
-    },
-    {
-      "Level": "21",
-      "# of Power Ups": "41",
-      "Stardust": "3000",
-      "Candy": "3",
-      "Stardust Total": "53000",
-      "Candy Total": "63"
-    },
-    {
-      "Level": "21.5",
-      "# of Power Ups": "42",
-      "Stardust": "3000",
-      "Candy": "3",
-      "Stardust Total": "56000",
-      "Candy Total": "66"
-    },
-    {
-      "Level": "22",
-      "# of Power Ups": "43",
-      "Stardust": "3000",
-      "Candy": "3",
-      "Stardust Total": "59000",
-      "Candy Total": "69"
-    },
-    {
-      "Level": "22.5",
-      "# of Power Ups": "44",
-      "Stardust": "3000",
-      "Candy": "3",
-      "Stardust Total": "62000",
-      "Candy Total": "72"
-    },
-    {
-      "Level": "23",
-      "# of Power Ups": "45",
-      "Stardust": "3500",
-      "Candy": "3",
-      "Stardust Total": "65500",
-      "Candy Total": "75"
-    },
-    {
-      "Level": "23.5",
-      "# of Power Ups": "46",
-      "Stardust": "3500",
-      "Candy": "3",
-      "Stardust Total": "69000",
-      "Candy Total": "78"
-    },
-    {
-      "Level": "24",
-      "# of Power Ups": "47",
-      "Stardust": "3500",
-      "Candy": "3",
-      "Stardust Total": "72500",
-      "Candy Total": "81"
-    },
-    {
-      "Level": "24.5",
-      "# of Power Ups": "48",
-      "Stardust": "3500",
-      "Candy": "3",
-      "Stardust Total": "76000",
-      "Candy Total": "84"
-    },
-    {
-      "Level": "25",
-      "# of Power Ups": "49",
-      "Stardust": "4000",
-      "Candy": "3",
-      "Stardust Total": "80000",
-      "Candy Total": "87"
-    },
-    {
-      "Level": "25.5",
-      "# of Power Ups": "50",
-      "Stardust": "4000",
-      "Candy": "3",
-      "Stardust Total": "84000",
-      "Candy Total": "90"
-    },
-    {
-      "Level": "26",
-      "# of Power Ups": "51",
-      "Stardust": "4000",
-      "Candy": "4",
-      "Stardust Total": "88000",
-      "Candy Total": "94"
-    },
-    {
-      "Level": "26.5",
-      "# of Power Ups": "52",
-      "Stardust": "4000",
-      "Candy": "4",
-      "Stardust Total": "92000",
-      "Candy Total": "98"
-    },
-    {
-      "Level": "27",
-      "# of Power Ups": "53",
-      "Stardust": "4500",
-      "Candy": "4",
-      "Stardust Total": "96500",
-      "Candy Total": "102"
-    },
-    {
-      "Level": "27.5",
-      "# of Power Ups": "54",
-      "Stardust": "4500",
-      "Candy": "4",
-      "Stardust Total": "101000",
-      "Candy Total": "106"
-    },
-    {
-      "Level": "28",
-      "# of Power Ups": "55",
-      "Stardust": "4500",
-      "Candy": "4",
-      "Stardust Total": "105500",
-      "Candy Total": "110"
-    },
-    {
-      "Level": "28.5",
-      "# of Power Ups": "56",
-      "Stardust": "4500",
-      "Candy": "4",
-      "Stardust Total": "110000",
-      "Candy Total": "114"
-    },
-    {
-      "Level": "29",
-      "# of Power Ups": "57",
-      "Stardust": "5000",
-      "Candy": "4",
-      "Stardust Total": "115000",
-      "Candy Total": "118"
-    },
-    {
-      "Level": "29.5",
-      "# of Power Ups": "58",
-      "Stardust": "5000",
-      "Candy": "4",
-      "Stardust Total": "120000",
-      "Candy Total": "122"
-    },
-    {
-      "Level": "30",
-      "# of Power Ups": "59",
-      "Stardust": "5000",
-      "Candy": "4",
-      "Stardust Total": "125000",
-      "Candy Total": "126"
-    },
-    {
-      "Level": "30.5",
-      "# of Power Ups": "60",
-      "Stardust": "5000",
-      "Candy": "4",
-      "Stardust Total": "130000",
-      "Candy Total": "130"
-    },
-    {
-      "Level": "31",
-      "# of Power Ups": "61",
-      "Stardust": "6000",
-      "Candy": "6",
-      "Stardust Total": "136000",
-      "Candy Total": "136"
-    },
-    {
-      "Level": "31.5",
-      "# of Power Ups": "62",
-      "Stardust": "6000",
-      "Candy": "6",
-      "Stardust Total": "142000",
-      "Candy Total": "142"
-    },
-    {
-      "Level": "32",
-      "# of Power Ups": "63",
-      "Stardust": "6000",
-      "Candy": "6",
-      "Stardust Total": "148000",
-      "Candy Total": "148"
-    },
-    {
-      "Level": "32.5",
-      "# of Power Ups": "64",
-      "Stardust": "6000",
-      "Candy": "6",
-      "Stardust Total": "154000",
-      "Candy Total": "154"
-    },
-    {
-      "Level": "33",
-      "# of Power Ups": "65",
-      "Stardust": "7000",
-      "Candy": "8",
-      "Stardust Total": "161000",
-      "Candy Total": "162"
-    },
-    {
-      "Level": "33.5",
-      "# of Power Ups": "66",
-      "Stardust": "7000",
-      "Candy": "8",
-      "Stardust Total": "168000",
-      "Candy Total": "170"
-    },
-    {
-      "Level": "34",
-      "# of Power Ups": "67",
-      "Stardust": "7000",
-      "Candy": "8",
-      "Stardust Total": "175000",
-      "Candy Total": "178"
-    },
-    {
-      "Level": "34.5",
-      "# of Power Ups": "68",
-      "Stardust": "7000",
-      "Candy": "8",
-      "Stardust Total": "182000",
-      "Candy Total": "186"
-    },
-    {
-      "Level": "35",
-      "# of Power Ups": "69",
-      "Stardust": "8000",
-      "Candy": "10",
-      "Stardust Total": "190000",
-      "Candy Total": "196"
-    },
-    {
-      "Level": "35.5",
-      "# of Power Ups": "70",
-      "Stardust": "8000",
-      "Candy": "10",
-      "Stardust Total": "198000",
-      "Candy Total": "206"
-    },
-    {
-      "Level": "36",
-      "# of Power Ups": "71",
-      "Stardust": "8000",
-      "Candy": "10",
-      "Stardust Total": "206000",
-      "Candy Total": "216"
-    },
-    {
-      "Level": "36.5",
-      "# of Power Ups": "72",
-      "Stardust": "8000",
-      "Candy": "10",
-      "Stardust Total": "214000",
-      "Candy Total": "226"
-    },
-    {
-      "Level": "37",
-      "# of Power Ups": "73",
-      "Stardust": "9000",
-      "Candy": "12",
-      "Stardust Total": "223000",
-      "Candy Total": "238"
-    },
-    {
-      "Level": "37.5",
-      "# of Power Ups": "74",
-      "Stardust": "9000",
-      "Candy": "12",
-      "Stardust Total": "232000",
-      "Candy Total": "250"
-    },
-    {
-      "Level": "38",
-      "# of Power Ups": "75",
-      "Stardust": "9000",
-      "Candy": "12",
-      "Stardust Total": "241000",
-      "Candy Total": "262"
-    },
-    {
-      "Level": "38.5",
-      "# of Power Ups": "76",
-      "Stardust": "9000",
-      "Candy": "12",
-      "Stardust Total": "250000",
-      "Candy Total": "274"
-    },
-    {
-      "Level": "39",
-      "# of Power Ups": "77",
-      "Stardust": "10000",
-      "Candy": "15",
-      "Stardust Total": "260000",
-      "Candy Total": "289"
-    },
-    {
-      "Level": "39.5",
-      "# of Power Ups": "78",
-      "Stardust": "10000",
-      "Candy": "15",
-      "Stardust Total": "270000",
-      "Candy Total": "304"
-    }
-  ]
-}
+[
+  {
+    "Level": 0.5,
+    "PowerUps": 0,
+    "Stardust": 0,
+    "Candy": 0,
+    "StardustTotal": 0,
+    "CandyTotal": 0
+  },
+  {
+    "Level": 1,
+    "PowerUps": 1,
+    "Stardust": 200,
+    "Candy": 1,
+    "StardustTotal": 200,
+    "CandyTotal": 1
+  },
+  {
+    "Level": 1.5,
+    "PowerUps": 2,
+    "Stardust": 200,
+    "Candy": 1,
+    "StardustTotal": 400,
+    "CandyTotal": 2
+  },
+  {
+    "Level": 2,
+    "PowerUps": 3,
+    "Stardust": 200,
+    "Candy": 1,
+    "StardustTotal": 600,
+    "CandyTotal": 3
+  },
+  {
+    "Level": 2.5,
+    "PowerUps": 4,
+    "Stardust": 200,
+    "Candy": 1,
+    "StardustTotal": 800,
+    "CandyTotal": 4
+  },
+  {
+    "Level": 3,
+    "PowerUps": 5,
+    "Stardust": 400,
+    "Candy": 1,
+    "StardustTotal": 1200,
+    "CandyTotal": 5
+  },
+  {
+    "Level": 3.5,
+    "PowerUps": 6,
+    "Stardust": 400,
+    "Candy": 1,
+    "StardustTotal": 1600,
+    "CandyTotal": 6
+  },
+  {
+    "Level": 4,
+    "PowerUps": 7,
+    "Stardust": 400,
+    "Candy": 1,
+    "StardustTotal": 2000,
+    "CandyTotal": 7
+  },
+  {
+    "Level": 4.5,
+    "PowerUps": 8,
+    "Stardust": 400,
+    "Candy": 1,
+    "StardustTotal": 2400,
+    "CandyTotal": 8
+  },
+  {
+    "Level": 5,
+    "PowerUps": 9,
+    "Stardust": 600,
+    "Candy": 1,
+    "StardustTotal": 3000,
+    "CandyTotal": 9
+  },
+  {
+    "Level": 5.5,
+    "PowerUps": 10,
+    "Stardust": 600,
+    "Candy": 1,
+    "StardustTotal": 3600,
+    "CandyTotal": 10
+  },
+  {
+    "Level": 6,
+    "PowerUps": 11,
+    "Stardust": 600,
+    "Candy": 1,
+    "StardustTotal": 4200,
+    "CandyTotal": 11
+  },
+  {
+    "Level": 6.5,
+    "PowerUps": 12,
+    "Stardust": 600,
+    "Candy": 1,
+    "StardustTotal": 4800,
+    "CandyTotal": 12
+  },
+  {
+    "Level": 7,
+    "PowerUps": 13,
+    "Stardust": 800,
+    "Candy": 1,
+    "StardustTotal": 5600,
+    "CandyTotal": 13
+  },
+  {
+    "Level": 7.5,
+    "PowerUps": 14,
+    "Stardust": 800,
+    "Candy": 1,
+    "StardustTotal": 6400,
+    "CandyTotal": 14
+  },
+  {
+    "Level": 8,
+    "PowerUps": 15,
+    "Stardust": 800,
+    "Candy": 1,
+    "StardustTotal": 7200,
+    "CandyTotal": 15
+  },
+  {
+    "Level": 8.5,
+    "PowerUps": 16,
+    "Stardust": 800,
+    "Candy": 1,
+    "StardustTotal": 8000,
+    "CandyTotal": 16
+  },
+  {
+    "Level": 9,
+    "PowerUps": 17,
+    "Stardust": 1000,
+    "Candy": 1,
+    "StardustTotal": 9000,
+    "CandyTotal": 17
+  },
+  {
+    "Level": 9.5,
+    "PowerUps": 18,
+    "Stardust": 1000,
+    "Candy": 1,
+    "StardustTotal": 10000,
+    "CandyTotal": 18
+  },
+  {
+    "Level": 10,
+    "PowerUps": 19,
+    "Stardust": 1000,
+    "Candy": 1,
+    "StardustTotal": 11000,
+    "CandyTotal": 19
+  },
+  {
+    "Level": 10.5,
+    "PowerUps": 20,
+    "Stardust": 1000,
+    "Candy": 1,
+    "StardustTotal": 12000,
+    "CandyTotal": 20
+  },
+  {
+    "Level": 11,
+    "PowerUps": 21,
+    "Stardust": 1300,
+    "Candy": 2,
+    "StardustTotal": 13300,
+    "CandyTotal": 22
+  },
+  {
+    "Level": 11.5,
+    "PowerUps": 22,
+    "Stardust": 1300,
+    "Candy": 2,
+    "StardustTotal": 14600,
+    "CandyTotal": 24
+  },
+  {
+    "Level": 12,
+    "PowerUps": 23,
+    "Stardust": 1300,
+    "Candy": 2,
+    "StardustTotal": 15900,
+    "CandyTotal": 26
+  },
+  {
+    "Level": 12.5,
+    "PowerUps": 24,
+    "Stardust": 1300,
+    "Candy": 2,
+    "StardustTotal": 17200,
+    "CandyTotal": 28
+  },
+  {
+    "Level": 13,
+    "PowerUps": 25,
+    "Stardust": 1600,
+    "Candy": 2,
+    "StardustTotal": 18800,
+    "CandyTotal": 30
+  },
+  {
+    "Level": 13.5,
+    "PowerUps": 26,
+    "Stardust": 1600,
+    "Candy": 2,
+    "StardustTotal": 20400,
+    "CandyTotal": 32
+  },
+  {
+    "Level": 14,
+    "PowerUps": 27,
+    "Stardust": 1600,
+    "Candy": 2,
+    "StardustTotal": 22000,
+    "CandyTotal": 34
+  },
+  {
+    "Level": 14.5,
+    "PowerUps": 28,
+    "Stardust": 1600,
+    "Candy": 2,
+    "StardustTotal": 23600,
+    "CandyTotal": 36
+  },
+  {
+    "Level": 15,
+    "PowerUps": 29,
+    "Stardust": 1900,
+    "Candy": 2,
+    "StardustTotal": 25500,
+    "CandyTotal": 38
+  },
+  {
+    "Level": 15.5,
+    "PowerUps": 30,
+    "Stardust": 1900,
+    "Candy": 2,
+    "StardustTotal": 27400,
+    "CandyTotal": 40
+  },
+  {
+    "Level": 16,
+    "PowerUps": 31,
+    "Stardust": 1900,
+    "Candy": 2,
+    "StardustTotal": 29300,
+    "CandyTotal": 42
+  },
+  {
+    "Level": 16.5,
+    "PowerUps": 32,
+    "Stardust": 1900,
+    "Candy": 2,
+    "StardustTotal": 31200,
+    "CandyTotal": 44
+  },
+  {
+    "Level": 17,
+    "PowerUps": 33,
+    "Stardust": 2200,
+    "Candy": 2,
+    "StardustTotal": 33400,
+    "CandyTotal": 46
+  },
+  {
+    "Level": 17.5,
+    "PowerUps": 34,
+    "Stardust": 2200,
+    "Candy": 2,
+    "StardustTotal": 35600,
+    "CandyTotal": 48
+  },
+  {
+    "Level": 18,
+    "PowerUps": 35,
+    "Stardust": 2200,
+    "Candy": 2,
+    "StardustTotal": 37800,
+    "CandyTotal": 50
+  },
+  {
+    "Level": 18.5,
+    "PowerUps": 36,
+    "Stardust": 2200,
+    "Candy": 2,
+    "StardustTotal": 40000,
+    "CandyTotal": 52
+  },
+  {
+    "Level": 19,
+    "PowerUps": 37,
+    "Stardust": 2500,
+    "Candy": 2,
+    "StardustTotal": 42500,
+    "CandyTotal": 54
+  },
+  {
+    "Level": 19.5,
+    "PowerUps": 38,
+    "Stardust": 2500,
+    "Candy": 2,
+    "StardustTotal": 45000,
+    "CandyTotal": 56
+  },
+  {
+    "Level": 20,
+    "PowerUps": 39,
+    "Stardust": 2500,
+    "Candy": 2,
+    "StardustTotal": 47500,
+    "CandyTotal": 58
+  },
+  {
+    "Level": 20.5,
+    "PowerUps": 40,
+    "Stardust": 2500,
+    "Candy": 2,
+    "StardustTotal": 50000,
+    "CandyTotal": 60
+  },
+  {
+    "Level": 21,
+    "PowerUps": 41,
+    "Stardust": 3000,
+    "Candy": 3,
+    "StardustTotal": 53000,
+    "CandyTotal": 63
+  },
+  {
+    "Level": 21.5,
+    "PowerUps": 42,
+    "Stardust": 3000,
+    "Candy": 3,
+    "StardustTotal": 56000,
+    "CandyTotal": 66
+  },
+  {
+    "Level": 22,
+    "PowerUps": 43,
+    "Stardust": 3000,
+    "Candy": 3,
+    "StardustTotal": 59000,
+    "CandyTotal": 69
+  },
+  {
+    "Level": 22.5,
+    "PowerUps": 44,
+    "Stardust": 3000,
+    "Candy": 3,
+    "StardustTotal": 62000,
+    "CandyTotal": 72
+  },
+  {
+    "Level": 23,
+    "PowerUps": 45,
+    "Stardust": 3500,
+    "Candy": 3,
+    "StardustTotal": 65500,
+    "CandyTotal": 75
+  },
+  {
+    "Level": 23.5,
+    "PowerUps": 46,
+    "Stardust": 3500,
+    "Candy": 3,
+    "StardustTotal": 69000,
+    "CandyTotal": 78
+  },
+  {
+    "Level": 24,
+    "PowerUps": 47,
+    "Stardust": 3500,
+    "Candy": 3,
+    "StardustTotal": 72500,
+    "CandyTotal": 81
+  },
+  {
+    "Level": 24.5,
+    "PowerUps": 48,
+    "Stardust": 3500,
+    "Candy": 3,
+    "StardustTotal": 76000,
+    "CandyTotal": 84
+  },
+  {
+    "Level": 25,
+    "PowerUps": 49,
+    "Stardust": 4000,
+    "Candy": 3,
+    "StardustTotal": 80000,
+    "CandyTotal": 87
+  },
+  {
+    "Level": 25.5,
+    "PowerUps": 50,
+    "Stardust": 4000,
+    "Candy": 3,
+    "StardustTotal": 84000,
+    "CandyTotal": 90
+  },
+  {
+    "Level": 26,
+    "PowerUps": 51,
+    "Stardust": 4000,
+    "Candy": 4,
+    "StardustTotal": 88000,
+    "CandyTotal": 94
+  },
+  {
+    "Level": 26.5,
+    "PowerUps": 52,
+    "Stardust": 4000,
+    "Candy": 4,
+    "StardustTotal": 92000,
+    "CandyTotal": 98
+  },
+  {
+    "Level": 27,
+    "PowerUps": 53,
+    "Stardust": 4500,
+    "Candy": 4,
+    "StardustTotal": 96500,
+    "CandyTotal": 102
+  },
+  {
+    "Level": 27.5,
+    "PowerUps": 54,
+    "Stardust": 4500,
+    "Candy": 4,
+    "StardustTotal": 101000,
+    "CandyTotal": 106
+  },
+  {
+    "Level": 28,
+    "PowerUps": 55,
+    "Stardust": 4500,
+    "Candy": 4,
+    "StardustTotal": 105500,
+    "CandyTotal": 110
+  },
+  {
+    "Level": 28.5,
+    "PowerUps": 56,
+    "Stardust": 4500,
+    "Candy": 4,
+    "StardustTotal": 110000,
+    "CandyTotal": 114
+  },
+  {
+    "Level": 29,
+    "PowerUps": 57,
+    "Stardust": 5000,
+    "Candy": 4,
+    "StardustTotal": 115000,
+    "CandyTotal": 118
+  },
+  {
+    "Level": 29.5,
+    "PowerUps": 58,
+    "Stardust": 5000,
+    "Candy": 4,
+    "StardustTotal": 120000,
+    "CandyTotal": 122
+  },
+  {
+    "Level": 30,
+    "PowerUps": 59,
+    "Stardust": 5000,
+    "Candy": 4,
+    "StardustTotal": 125000,
+    "CandyTotal": 126
+  },
+  {
+    "Level": 30.5,
+    "PowerUps": 60,
+    "Stardust": 5000,
+    "Candy": 4,
+    "StardustTotal": 130000,
+    "CandyTotal": 130
+  },
+  {
+    "Level": 31,
+    "PowerUps": 61,
+    "Stardust": 6000,
+    "Candy": 6,
+    "StardustTotal": 136000,
+    "CandyTotal": 136
+  },
+  {
+    "Level": 31.5,
+    "PowerUps": 62,
+    "Stardust": 6000,
+    "Candy": 6,
+    "StardustTotal": 142000,
+    "CandyTotal": 142
+  },
+  {
+    "Level": 32,
+    "PowerUps": 63,
+    "Stardust": 6000,
+    "Candy": 6,
+    "StardustTotal": 148000,
+    "CandyTotal": 148
+  },
+  {
+    "Level": 32.5,
+    "PowerUps": 64,
+    "Stardust": 6000,
+    "Candy": 6,
+    "StardustTotal": 154000,
+    "CandyTotal": 154
+  },
+  {
+    "Level": 33,
+    "PowerUps": 65,
+    "Stardust": 7000,
+    "Candy": 8,
+    "StardustTotal": 161000,
+    "CandyTotal": 162
+  },
+  {
+    "Level": 33.5,
+    "PowerUps": 66,
+    "Stardust": 7000,
+    "Candy": 8,
+    "StardustTotal": 168000,
+    "CandyTotal": 170
+  },
+  {
+    "Level": 34,
+    "PowerUps": 67,
+    "Stardust": 7000,
+    "Candy": 8,
+    "StardustTotal": 175000,
+    "CandyTotal": 178
+  },
+  {
+    "Level": 34.5,
+    "PowerUps": 68,
+    "Stardust": 7000,
+    "Candy": 8,
+    "StardustTotal": 182000,
+    "CandyTotal": 186
+  },
+  {
+    "Level": 35,
+    "PowerUps": 69,
+    "Stardust": 8000,
+    "Candy": 10,
+    "StardustTotal": 190000,
+    "CandyTotal": 196
+  },
+  {
+    "Level": 35.5,
+    "PowerUps": 70,
+    "Stardust": 8000,
+    "Candy": 10,
+    "StardustTotal": 198000,
+    "CandyTotal": 206
+  },
+  {
+    "Level": 36,
+    "PowerUps": 71,
+    "Stardust": 8000,
+    "Candy": 10,
+    "StardustTotal": 206000,
+    "CandyTotal": 216
+  },
+  {
+    "Level": 36.5,
+    "PowerUps": 72,
+    "Stardust": 8000,
+    "Candy": 10,
+    "StardustTotal": 214000,
+    "CandyTotal": 226
+  },
+  {
+    "Level": 37,
+    "PowerUps": 73,
+    "Stardust": 9000,
+    "Candy": 12,
+    "StardustTotal": 223000,
+    "CandyTotal": 238
+  },
+  {
+    "Level": 37.5,
+    "PowerUps": 74,
+    "Stardust": 9000,
+    "Candy": 12,
+    "StardustTotal": 232000,
+    "CandyTotal": 250
+  },
+  {
+    "Level": 38,
+    "PowerUps": 75,
+    "Stardust": 9000,
+    "Candy": 12,
+    "StardustTotal": 241000,
+    "CandyTotal": 262
+  },
+  {
+    "Level": 38.5,
+    "PowerUps": 76,
+    "Stardust": 9000,
+    "Candy": 12,
+    "StardustTotal": 250000,
+    "CandyTotal": 274
+  },
+  {
+    "Level": 39,
+    "PowerUps": 77,
+    "Stardust": 10000,
+    "Candy": 15,
+    "StardustTotal": 260000,
+    "CandyTotal": 289
+  },
+  {
+    "Level": 39.5,
+    "PowerUps": 78,
+    "Stardust": 10000,
+    "Candy": 15,
+    "StardustTotal": 270000,
+    "CandyTotal": 304
+  }
+ ]
