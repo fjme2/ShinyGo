@@ -2,9 +2,13 @@ require("dotenv").config({ path: __dirname + "/.env" });
 var express = require("express");
 const Telegraf = require("telegraf");
 const stardust = require("./stardust.json");
+const tesseract = require("tesseract.js");
+const Telegram = require('telegraf/telegram')
+
 
 const PORT = process.env.PORT || 5000;
 const bot = new Telegraf(process.env.BOT_TOKEN);
+const telegram = new Telegram(process.env.BOT_TOKEN)
 
 const mensajeBienvenida = `Bienvenido a ShinyGo Bot!
 Para ver mis funciones usa el comando /help`;
@@ -65,18 +69,19 @@ bot.command("calcular", ctx => {
   ctx.reply(respuesta);
 });
 
-bot.use((ctx) => {
-  console.log(ctx)
+//https://github.com/superRaytin/image-clipper/tree/7f06faca601acbe6b84a9ae1c383815927c77477
+bot.use(async (ctx) => {
+  console.log(ctx.message.photo)
   if(ctx.message.photo){
+    const image = ctx.message.photo[2].file_id;
+    var foto = await telegram.getFileLink(image);
+    console.log(foto);
+    await tesseract.recognize(foto, 'eng')
+    .then(({ data: { text } }) => {
+      console.log(text);
+    });
     ctx.reply('La hay');
-  }
-})
-
-//TODO
-bot.entity("photo", (ctx) => {
-  console.log(ctx.message)
-  if(ctx.message.photo){
-    ctx.reply('La hay');
+    //ctx.reply(ctx.message.caption);
   }
 })
 
@@ -85,11 +90,6 @@ bot.command("prueba", (ctx) => {
   if(ctx.message.photo){
     ctx.reply('La hay');
   }
-})
-
-bot.hears('imagen', (ctx) =>{
-  console.log('Entra');
-  ctx.replyWithPhoto('AgADBAADo7ExG_n1IVAyai6S0XRweiw_qBsABAEAAwIAA3kAA7mcBQABFgQ');
 })
 
 bot.help((ctx) => ctx.reply(mensajeAyuda))
