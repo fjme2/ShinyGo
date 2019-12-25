@@ -8,8 +8,7 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 
 const mensajeBienvenida = `Bienvenido a ShinyGo Bot!
 Para ver mis funciones usa el comando /help`;
-const mensajeAyuda = `Para calcular los polvos estelares/caramelos/cantidad de subidas de nivel que se necesitan de un nivel a otro utiliza:
-/calcular NivelInicial NivelFinal`
+const mensajeAyuda = `Para calcular los polvos estelares/caramelos/cantidad de subidas de nivel que se necesitan de un nivel a otro utiliza:\n/calcular NivelInicial NivelFinal`
 
 var app = express();
 app.get("/", (req, res) => {
@@ -23,6 +22,7 @@ const calcular = pregunta => {
     return `La cantidad de datos no es correcta`;
   }
   try {
+    console.log('hola');
     let nivInicial = Number(pregunta[1]);
     let nivFinal = Number(pregunta[2]);
     var datos0;
@@ -45,13 +45,11 @@ const calcular = pregunta => {
 
     if (nivFinal >= nivInicial) {
       return `Se necesitan ${datos1.PowerUps -
-        datos0.PowerUps} subidas de nivel con:
-${datos1.CandyTotal - datos0.CandyTotal} caramelos y  ${datos1.StardustTotal -
+        datos0.PowerUps} subidas de nivel con:\n${datos1.CandyTotal - datos0.CandyTotal} caramelos y  ${datos1.StardustTotal -
         datos0.StardustTotal} polvos estelares.`;
     } else if (nivFinal < nivInicial) {
       return `Se necesitan ${datos0.PowerUps -
-        datos1.PowerUps} subidas de nivel con:
-${datos0.CandyTotal - datos1.CandyTotal} caramelos y  ${datos0.StardustTotal -
+        datos1.PowerUps} subidas de nivel con:\n${datos0.CandyTotal - datos1.CandyTotal} caramelos y  ${datos0.StardustTotal -
         datos1.StardustTotal} polvos estelares.`;
     }
   } catch (e) {
@@ -66,6 +64,33 @@ bot.command("calcular", ctx => {
   var respuesta = calcular(pregunta);
   ctx.reply(respuesta);
 });
+
+bot.use((ctx) => {
+  console.log(ctx)
+  if(ctx.message.photo){
+    ctx.reply('La hay');
+  }
+})
+
+//TODO
+bot.entity("photo", (ctx) => {
+  console.log(ctx.message)
+  if(ctx.message.photo){
+    ctx.reply('La hay');
+  }
+})
+
+bot.command("prueba", (ctx) => {
+  console.log(ctx.message)
+  if(ctx.message.photo){
+    ctx.reply('La hay');
+  }
+})
+
+bot.hears('imagen', (ctx) =>{
+  console.log('Entra');
+  ctx.replyWithPhoto('AgADBAADo7ExG_n1IVAyai6S0XRweiw_qBsABAEAAwIAA3kAA7mcBQABFgQ');
+})
 
 bot.help((ctx) => ctx.reply(mensajeAyuda))
 

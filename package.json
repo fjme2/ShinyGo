@@ -28,6 +28,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nodemon": "^2.0.2",
-    "telegraf": "^3.34.1"
+    "telegraf": "^3.34.1",
+    "tesseract.js": "^2.0.1"
   }
 }
